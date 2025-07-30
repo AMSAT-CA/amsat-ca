@@ -31,39 +31,10 @@ jobs:
           ruby-version: "3.4"
           bundler-cache: true
 
-      # Cache Gemfile for faster dependency resolution
-      - name: Cache Gemfile.lock
-        uses: actions/cache@v3
-        with:
-          path: Gemfile.lock
-          key: gemfile-lock-${{ hashFiles('Gemfile*') }}
-
-      - name: Create optimized GitHub Actions Gemfile
+      - name: Configure bundle for deployment
         run: |
-          cat > Gemfile.github-actions << 'EOL'
-          source "https://rubygems.org"
-
-          # Core Jekyll with version pinning for consistency
-          gem "jekyll", "~> 4.3.0"
-          gem "webrick"
-
-          # Ruby 3.4+ compatibility gems
-          gem "bigdecimal"
-          gem "csv"
-          gem "logger"
-          gem "base64"
-
-          # Theme from GitHub
-          gem "arbutus-theme", github: "Arbutus-Code/arbutus-jekyll-theme", branch: "main"
-
-          # Jekyll plugins
-          group :jekyll_plugins do
-            gem "jekyll-feed"
-            gem "jekyll-seo-tag"
-            gem "mini_magick"
-          end
-          EOL
-          mv Gemfile.github-actions Gemfile
+          bundle config set --local deployment false
+          bundle config set --local frozen false
 
       - name: Install dependencies
         run: bundle install --jobs 4 --retry 3
