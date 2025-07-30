@@ -1,0 +1,9 @@
+favicon_ico: /assets/media/favicons/favicon.ico
+favicon_png: /assets/media/favicons/favicon.png
+favicon_svg: /assets/media/favicons/favicon.svg
+manifest:
+  name: AMSAT Canada
+  short_name: AMSAT-CA
+  theme_color: "#EE3B43"
+  background_color: "#ffffff"
+  display: standalone
