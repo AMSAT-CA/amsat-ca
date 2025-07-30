@@ -66,9 +66,7 @@ jobs:
           mv Gemfile.github-actions Gemfile
 
       - name: Install dependencies
-        run: |
-          rm -f Gemfile.lock
-          bundle install --jobs 4 --retry 3
+        run: bundle install --jobs 4 --retry 3
 
       - name: Build site with incremental builds
         run: bundle exec jekyll build
