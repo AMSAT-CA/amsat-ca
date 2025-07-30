@@ -62,5 +62,11 @@ sections:
   - type: social_links
     heading: Follow Us
     show_titles: true
-
+  - type: cta
+    title: AMSAT-CA MOU
+    description: Memorandum of Understanding between Radio Amateurs of Canada and Amateur Radio Satellites and Systems - Canada
+    center_content: true
+    primary_button:
+      text: Download MOU
+      url: /assets/media/mou-rac-amsat-ca.pdf
 ---
