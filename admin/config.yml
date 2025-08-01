@@ -363,13 +363,18 @@ collections:
                   required: false,
                   hint: "Defaults to title if not provided",
                 }
-              - label: "Call to Action"
-                name: "cta"
-                widget: "object"
-                required: false
-                fields:
-                  - { label: "Button Text", name: "text", widget: "string" }
-                  - { label: "Button URL", name: "url", widget: "string" }
+              - {
+                  label: "CTA Button Text",
+                  name: "cta_text",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "CTA Button URL",
+                  name: "cta_url",
+                  widget: "string",
+                  required: false,
+                }
 
           # Text Section (docs: text-section)
           - label: "Text Section"
@@ -530,13 +535,18 @@ collections:
                       name: "description",
                       widget: "text",
                     }
-                  - { label: "URL", name: "url", widget: "string" }
+                  - {
+                      label: "URL",
+                      name: "url",
+                      widget: "string",
+                      required: true,
+                    }
                   - {
                       label: "CTA Text",
                       name: "cta_text",
                       widget: "string",
                       default: "Learn More",
-                      required: false,
+                      required: true,
                     }
                   - {
                       label: "Media Type",
@@ -994,29 +1004,6 @@ collections:
                   default: true,
                   required: false,
                 }
-              - label: "Social Links"
-                name: "socials"
-                widget: "list"
-                required: false
-                fields:
-                  - { label: "Name", name: "name", widget: "string" }
-                  - { label: "URL", name: "url", widget: "string" }
-                  - {
-                      label: "Icon",
-                      name: "icon",
-                      widget: "select",
-                      options:
-                        [
-                          "twitter",
-                          "facebook",
-                          "instagram",
-                          "linkedin",
-                          "youtube",
-                          "github",
-                          "email",
-                        ],
-                      required: false,
-                    }
 
           # Contact Form Section (docs: contact_form)
           - label: "Contact Form Section"
