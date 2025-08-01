@@ -5,7 +5,7 @@ sections:
   - type: hero
     title: AMSAT Canada
     subtitle: Amateur Radio Satellite and Systems Canada - Promoting, Developing, and Supporting Amateur Satellite in Space
-    image: assets/images/logo-black.svg
+    image: assets/media/logos/logo-black.svg
     image_alt: Radio Tower Icon
   - type: featured_cards
     cards:

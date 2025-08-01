@@ -3,7 +3,7 @@ layout: page
 title: About AMSAT-CA
 sections:
   - type: split
-    image: /assets/images/projects/AMSAT-CA_Logo-Final-01.png
+    image: /assets/media/projects/AMSAT-CA_Logo-Final-01.png
     image_alt: "AMSAT-CA Logo"
     image_position: left
     heading: "Who We Are"
