@@ -466,32 +466,42 @@ collections:
                   default: true,
                   required: false,
                 }
-              - label: "Image"
-                name: "image"
-                widget: "object"
-                required: false
-                fields:
-                  - { label: "URL", name: "url", widget: "image" }
-                  - {
-                      label: "Alt Text",
-                      name: "alt",
-                      widget: "string",
-                      required: false,
-                    }
-              - label: "Primary Button"
-                name: "primary_button"
-                widget: "object"
-                required: false
-                fields:
-                  - { label: "Text", name: "text", widget: "string" }
-                  - { label: "URL", name: "url", widget: "string" }
-              - label: "Secondary Button"
-                name: "secondary_button"
-                widget: "object"
-                required: false
-                fields:
-                  - { label: "Text", name: "text", widget: "string" }
-                  - { label: "URL", name: "url", widget: "string" }
+              - {
+                  label: "Image URL",
+                  name: "image_url",
+                  widget: "image",
+                  required: false,
+                }
+              - {
+                  label: "Image Alt Text",
+                  name: "image_alt",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Primary Button Text",
+                  name: "primary_button_text",
+                  widget: "string",
+                  required: true,
+                }
+              - {
+                  label: "Primary Button URL",
+                  name: "primary_button_url",
+                  widget: "string",
+                  required: true,
+                }
+              - {
+                  label: "Secondary Button Text",
+                  name: "secondary_button_text",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Secondary Button URL",
+                  name: "secondary_button_url",
+                  widget: "string",
+                  required: false,
+                }
 
           # Featured Cards Section (docs: featured_cards)
           - label: "Featured Cards Section"

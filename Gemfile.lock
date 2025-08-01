@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/Arbutus-Code/arbutus-jekyll-theme.git
-  revision: 577234a1ac4247c557ca9cfb69f8b4e37bf5d0a6
+  revision: 5dfaaffa2b7051c4d335fddb046f92056a8db945
   specs:
     arbutus-theme (0.1.0)
       jekyll (~> 4.3)

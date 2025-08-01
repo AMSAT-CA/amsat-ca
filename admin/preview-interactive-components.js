@@ -56,23 +56,6 @@ function renderHeroSection(section, index, getAsset) {
             },
           },
           section.get("subtitle")
-        ),
-      section.getIn(["cta", "text"]) &&
-        h(
-          "a",
-          {
-            href: "#",
-            style: {
-              display: "inline-block",
-              backgroundColor: "#10b981",
-              color: "white",
-              padding: "0.75rem 1.5rem",
-              borderRadius: "0.5rem",
-              textDecoration: "none",
-              fontWeight: "600",
-            },
-          },
-          section.getIn(["cta", "text"])
         )
     ),
     section.get("image") &&
@@ -97,21 +80,11 @@ function renderHeroSection(section, index, getAsset) {
  * Renders a CTA section preview
  */
 function renderCtaSection(section, index, getAsset) {
-  return h(
-    "div",
-    {
-      key: index,
-      className: "cta-preview",
-      style: {
-        background: "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-        color: "white",
-        padding: "3rem 2rem",
-        borderRadius: "1rem",
-        textAlign: section.get("center_content") ? "center" : "left",
-        marginBottom: "2rem",
-      },
-    },
-    section.get("title") &&
+  var children = [];
+  
+  // Add title if present
+  if (section.get("title")) {
+    children.push(
       h(
         "h3",
         {
@@ -122,8 +95,13 @@ function renderCtaSection(section, index, getAsset) {
           },
         },
         section.get("title")
-      ),
-    section.get("description") &&
+      )
+    );
+  }
+  
+  // Add description if present
+  if (section.get("description")) {
+    children.push(
       h(
         "p",
         {
@@ -135,8 +113,13 @@ function renderCtaSection(section, index, getAsset) {
           },
         },
         section.get("description")
-      ),
-    section.get("image") &&
+      )
+    );
+  }
+  
+  // Add image if present
+  if (section.get("image_url")) {
+    children.push(
       h(
         "div",
         {
@@ -147,59 +130,34 @@ function renderCtaSection(section, index, getAsset) {
           },
         },
         h("img", {
-          src: getAsset(section.getIn(["image", "url"])),
-          alt: section.getIn(["image", "alt"]) || "CTA image",
+          src: getAsset(section.get("image_url")),
+          alt: section.get("image_alt") || "CTA image",
           style: {
             maxWidth: "300px",
             height: "auto",
             borderRadius: "0.5rem",
           },
         })
-      ),
-    h(
-      "div",
-      {
-        style: {
-          display: "flex",
-          gap: "1rem",
-          justifyContent: section.get("center_content") ? "center" : "flex-start",
-          flexWrap: "wrap",
-        },
+      )
+    );
+  }
+
+  
+  return h(
+    "div",
+    {
+      key: index,
+      className: "cta-preview",
+      style: {
+        background: "linear-gradient(45deg, #374151, #4b5563)",
+        color: "white",
+        padding: "3rem 2rem",
+        borderRadius: "1rem",
+        textAlign: section.get("center_content") ? "center" : "left",
+        marginBottom: "2rem",
       },
-      section.getIn(["primary_button", "text"]) &&
-        h(
-          "a",
-          {
-            href: "#",
-            style: {
-              backgroundColor: "white",
-              color: "#667eea",
-              padding: "0.75rem 1.5rem",
-              borderRadius: "0.5rem",
-              textDecoration: "none",
-              fontWeight: "600",
-            },
-          },
-          section.getIn(["primary_button", "text"])
-        ),
-      section.getIn(["secondary_button", "text"]) &&
-        h(
-          "a",
-          {
-            href: "#",
-            style: {
-              backgroundColor: "transparent",
-              color: "white",
-              padding: "0.75rem 1.5rem",
-              borderRadius: "0.5rem",
-              textDecoration: "none",
-              fontWeight: "600",
-              border: "2px solid white",
-            },
-          },
-          section.getIn(["secondary_button", "text"])
-        )
-    )
+    },
+    children
   );
 }
 
