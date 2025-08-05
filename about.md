@@ -48,11 +48,11 @@ sections:
       - name: Tom Tessier
         title: Treasurer and Director Outreach
         bio: treasurer@amsat-ca.org
-        image: /assets/media/avatar-default.svg
+        image: /assets/media/AMSAT-CA_Logo-Final-01.png
       - name: Tom Anderson
         title: Secretary
         bio: secretary@amsat-ca.org
-        image: /assets/media/avatar-default.svg
+        image: /assets/media/AMSAT-CA_Logo-Final-01.png
       - name: Matthew Borghese
         title: Director Outreach
         bio: va7usd@amsat-ca.org
@@ -60,11 +60,11 @@ sections:
       - name: Brent Petersen
         title: Technical Director
         bio: technicaldirector@amsat-ca.org
-        image: /assets/media/avatar-default.svg
+        image: /assets/media/AMSAT-CA_Logo-Final-01.png
       - name: Rick Richardson
         title: Director
         bio: ve7wf@amsat-ca.org
-        image: /assets/media/avatar-default.svg
+        image: /assets/media/AMSAT-CA_Logo-Final-01.png
   - type: social_links
     heading: Follow Us
     show_titles: true
