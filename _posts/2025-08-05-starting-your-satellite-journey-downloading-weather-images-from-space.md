@@ -36,7 +36,7 @@ Meteor M2-3 - 137.900 MHz - LRPT - Digital QPSK, high-resolution imagery
 
 Meteor M2-4 - 137.100 MHz (shared) - LRPT - Recently activated, excellent quality
 
-\*Note: NOAA-18 has been decommissioned and is no longer transmitting APT.\*
+*\*Note: NOAA-18 has been decommissioned and is no longer transmitting APT.\**
 
 **Why This Matters**
 
