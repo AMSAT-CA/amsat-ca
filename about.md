@@ -44,7 +44,7 @@ sections:
       - name: Scott Tilley
         title: Vice President
         bio: vice-president@amsat-ca.org
-        image: /assets/media/avatar-default.svg
+        image: /assets/media/scott-tilley.jpg
       - name: Tom Tessier
         title: Treasurer and Director Outreach
         bio: treasurer@amsat-ca.org
