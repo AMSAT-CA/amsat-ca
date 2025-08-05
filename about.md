@@ -40,7 +40,7 @@ sections:
       - name: Levente Buzas
         title: President
         bio: president@amsat-ca.org
-        image: /assets/media/avatar-default.svg
+        image: /assets/media/photo-buzas.jpg
       - name: Scott Tilley
         title: Vice President
         bio: vice-president@amsat-ca.org
@@ -56,7 +56,7 @@ sections:
       - name: Matthew Borghese
         title: Director Outreach
         bio: va7usd@amsat-ca.org
-        image: /assets/media/avatar-default.svg
+        image: /assets/media/matthew-borghese-rome-042.jpg
       - name: Brent Petersen
         title: Technical Director
         bio: technicaldirector@amsat-ca.org
