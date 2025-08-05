@@ -60,7 +60,7 @@ sections:
       - name: Brent Petersen
         title: Technical Director
         bio: technicaldirector@amsat-ca.org
-        image: /assets/media/AMSAT-CA_Logo-Final-01.png
+        image: /assets/media/brent-petersen-2025-1-.jpg
       - name: Rick Richardson
         title: Director
         bio: ve7wf@amsat-ca.org
