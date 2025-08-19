@@ -73,6 +73,14 @@ sections:
     primary_button:
       text: Download MOU
       url: /assets/media/mou-rac-amsat-ca.pdf
+  - type: cta
+    center_content: true
+    title: AMSAT-CA Bylaws
+    description: |
+      Corporate Bylaws - Updated August 18, 2025
+    primary_button:
+      text: Download Bylaws
+      url: assets/media/amsat-ca-bylaws-agust-18-2025.pdf
   - type: social_links
     heading: Follow Us
     show_titles: true
