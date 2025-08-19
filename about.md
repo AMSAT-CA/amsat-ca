@@ -37,31 +37,31 @@ sections:
     heading: Our Team
     show_images: true
     members:
-      - name: Levente Buzas
+      - name: Levente Buzas - VA7QF
         title: President
         bio: president@amsat-ca.org
         image: /assets/media/photo-buzas.jpg
-      - name: Scott Tilley
+      - name: Scott Tilley - VA7LF
         title: Vice President
         bio: vice-president@amsat-ca.org
         image: /assets/media/scott-tilley.jpg
-      - name: Tom Tessier
+      - name: Tom Tessier - VE9TRT
         title: Treasurer and Director Outreach
         bio: treasurer@amsat-ca.org
         image: /assets/media/AMSAT-CA_Logo-Final-01.png
-      - name: Tom Anderson
+      - name: Tom Anderson - VA6TA
         title: Secretary
         bio: secretary@amsat-ca.org
         image: /assets/media/AMSAT-CA_Logo-Final-01.png
-      - name: Matthew Borghese
+      - name: Matthew Borghese - VA7USD
         title: Director Outreach
         bio: va7usd@amsat-ca.org
         image: /assets/media/matthew-borghese-rome-042.jpg
-      - name: Brent Petersen
+      - name: Brent Petersen - VE9EX
         title: Technical Director
         bio: technicaldirector@amsat-ca.org
         image: /assets/media/brent-petersen-2025-1-.jpg
-      - name: Rick Richardson
+      - name: Rick Richardson - VE7WF
         title: Director
         bio: ve7wf@amsat-ca.org
         image: /assets/media/img_2008.jpg
