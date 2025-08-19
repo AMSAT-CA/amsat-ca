@@ -21,9 +21,8 @@ sections:
       AMSAT-CA operates as a member-driven, outreach-focused organization that works in collaboration with partners across the world.
   - type: text-section
     heading: Our Mission
-    text: >
-      AMSAT-CA promotes, develops, and supports amateur radio in space,
-      including via man-made and natural satellites (e.g., the Moon), space
+    text: AMSAT-CA promotes, develops, and supports amateur radio in space,
+      including via human-made and natural satellites (e.g., the Moon), space
       stations and planets, and related experiments, as well as new developments
       in technology, methods and techniques.
   - type: text-section
