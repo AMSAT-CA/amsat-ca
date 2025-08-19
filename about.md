@@ -64,7 +64,7 @@ sections:
       - name: Rick Richardson
         title: Director
         bio: ve7wf@amsat-ca.org
-        image: /assets/media/AMSAT-CA_Logo-Final-01.png
+        image: /assets/media/img_2008.jpg
   - type: social_links
     heading: Follow Us
     show_titles: true
