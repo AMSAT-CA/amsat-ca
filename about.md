@@ -80,6 +80,20 @@ sections:
     primary_button:
       text: Download Bylaws
       url: assets/media/amsat-ca-bylaws-agust-18-2025.pdf
+  - type: text-section
+    heading: Our Sponsors
+    text: >-
+      We would like to hereby thank our sponsor [Free Range
+      Cloud](https://freerangecloud.com/) and [Google for
+      Nonprofits](https://www.google.com/nonprofits/) who provide us with
+      in-kind contributions to facilitate the administration of our
+      organization. We are grateful for your support!
+
+
+      ![](/assets/media/logo.png "Free Range Cloud")
+
+
+      ![](/assets/media/google_2015_logo.svg.png "Google for Nonprofits")
   - type: social_links
     heading: Follow Us
     show_titles: true
