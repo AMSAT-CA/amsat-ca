@@ -3,6 +3,8 @@ main_nav_links:
     link: /about/
   - name: Get Involved
     link: /get-involved/
+  - name: Satellites
+    link: /satellites/
   - name: Updates
     link: /updates/
 footer_nav_links: null
