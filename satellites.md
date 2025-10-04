@@ -41,48 +41,55 @@ sections:
       Satellites in the Canadian Space Agency's [CCP](https://www.asc-csa.gc.ca/eng/satellites/cubesat/what-is-the-canadian-cubesat-project.asp) program, which run between 2018 and 2023. All the satellites listed here are since deorbited via natural means.
 
 
-      University of Alberta: Ex-Alta-2
+      * University of Alberta: Ex-Alta-2
 
-      University of Victoria: ORCASAT
+      * University of Victoria: ORCASat
 
-      University of Manitoba: IRIS
+      * University of Manitoba: IRIS
 
-      University of New Brunswick: VIOLET
+      * University of New Brunswick: VIOLET
 
-      Memorial University of Newfoundland and Labrador: Killick-1
+      * Memorial University of Newfoundland and Labrador: Killick-1
 
-      Aurora Research Institute of Aurora College: AuroraSat
+      * Aurora Research Institute of Aurora College: AuroraSat
 
-      Dalhousie University: LORIS
+      * Dalhousie University: LORIS
 
-      Western University: Ukpik-1
+      * Western University: Ukpik-1
 
-      McMaster University: NEUDOSE
+      * McMaster University: NEUDOSE
 
-      York University: ESSENCE
+      * York University: ESSENCE
 
-      University of Prince Edward Island: SpudNik-1
+      * University of Prince Edward Island: SpudNik-1
 
-      Concordia University: SC-ODIN
+      * Concordia University: SC-ODIN
 
-      Université de Sherbrooke: QMSat: Quantum Magneto Satellite
+      * Université de Sherbrooke: QMSat: Quantum Magneto Satellite
 
-      University of Saskatchewan: RADSAT-SK
+      * University of Saskatchewan: RADSAT-SK
 
-      Yukon University: YukonSat
-
-
-      Other Programs
+      * Yukon University: YukonSat
 
 
-      University of Calgary: [FrontierSat](<>)
+      # Other Programs and Missions
 
-      York University: [DESCENT](<>)
 
-      University of Alberta: [Ex-Alta-1](https://albertasat.ca/ex-alta-1/)
+      * University of Calgary: [FrontierSat](<>)
 
-      University of Toronto: [HERON Mk. II](https://www.utat.ca/space-systems)[](https://heron.utat.space/)[](https://heron.utat.space/)
+      * York University: [DESCENT](<>)
 
+      * University of Alberta: [Ex-Alta-1](https://albertasat.ca/ex-alta-1/)
+
+      * University of Toronto: [HERON Mk. II](https://www.utat.ca/space-systems)
+
+      * University of Toronto: [CanX-2](https://space.skyrocket.de/doc_sdat/canx-2.htm)
+
+      * University of Toronto: [CanX-1](https://space.skyrocket.de/doc_sdat/canx-1.htm)
+
+
+
+        [](https://heron.utat.space/)[](https://heron.utat.space/)
 
       [](https://www.calgarytospace.ca/)
 ---
