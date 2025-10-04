@@ -6,41 +6,39 @@ sections:
   - type: text-section
     heading: Canadian Amateur Satellites
     text: >-
-      The intent of this page is to serve as a vault of information for
-      information on Canadian-built satellites which use Amateur spectrum.
-      Information here is compiled from publicly available sources, as well as
-      via direct contacts with the developers, on a best effort basis, with no
-      warranty regarding the correctness of any information. If you would like
-      your satellite to be featured here, please fill out the Contact Us form in
-      the [Get Involved](https://amsat-ca.org/get-involved/) section of the
-      AMSAT-CA Website. Please note that only satellites which were launches to
-      orbit area featured here.
+      # Overview
 
 
-      [CUBICS ](https://www.asc-csa.gc.ca/eng/satellites/cubics/about.asp)(2023-Present)
+      The intent of this page is to serve as a vault of information for information on Canadian-built satellites which use Amateur spectrum. Information here is compiled from publicly available sources, as well as via direct contacts with the developers, on a best effort basis, with no warranty regarding the correctness of any information. If you would like your satellite to be featured here, please fill out the Contact Us form in the [Get Involved](https://amsat-ca.org/get-involved/) section of the AMSAT-CA Website. Please note that only satellites which were launches to orbit area featured here.
 
 
+      # CUBICS[](https://www.asc-csa.gc.ca/eng/satellites/cubics/about.asp)
 
-      University of Alberta: [Ex-Alta 3](https://albertasat.ca/ex-alta-3/)
 
-      Concordia University: [SC-FREYER](https://spaceconcordia.ca/spacecraft)
+      Satellites in the Canadian Space Agency's [CUBICS](https://www.asc-csa.gc.ca/eng/satellites/cubics/about.asp) program, running since 2023. Satellites are expected to launch to ISS and SSO in the second half of 2026.
 
-      Dalhousie University: [MANTIS](https://dsslabs.ca/)
 
-      McMaster University: [PRESET](https://mstri.ca/)
+      * University of Alberta: [Ex-Alta 3](https://albertasat.ca/ex-alta-3/)
 
-      Memorial University of Newfoundland: [MunStar-1](https://munstar-1.com/)
+      * Concordia University: [SC-FREYER](https://spaceconcordia.ca/spacecraft)
 
-      University of Saskatchewan: [RADSAT-SK2](https://www.skcubesat.ca/)
+      * Dalhousie University: [MANTIS](https://dsslabs.ca/)
 
-      Western University: [Western Skylark](https://space.uwo.ca/research/Missions%20and%20Instruments/Skylark.html)
+      * McMaster University: [PRESET](https://mstri.ca/)
 
-      University of Victoria: [MARMOTSat](https://www.marmotsat.ca/)
+      * Memorial University of Newfoundland: [MunStar-1](https://munstar-1.com/)
 
+      * University of Saskatchewan: [RADSAT-SK2](https://www.skcubesat.ca/)
+
+      * Western University: [Western Skylark](https://space.uwo.ca/research/Missions%20and%20Instruments/Skylark.html)
+
+      * University of Victoria: [MARMOTSat](https://www.marmotsat.ca/)
 
 
       [CCP ](https://www.asc-csa.gc.ca/eng/satellites/cubesat/what-is-the-canadian-cubesat-project.asp)(2018-2023)
 
+
+      Satellites in the Canadian Space Agency's [CCP](https://www.asc-csa.gc.ca/eng/satellites/cubesat/what-is-the-canadian-cubesat-project.asp) program, which run between 2018 and 2023. All the satellites listed here are since deorbited via natural means.
 
 
       University of Alberta: Ex-Alta-2
