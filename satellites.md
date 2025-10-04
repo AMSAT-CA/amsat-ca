@@ -9,7 +9,7 @@ sections:
       ### Overview
 
 
-      The intent of this page is to serve as a vault of information for information on Canadian-built satellites which use Amateur spectrum. Information here is compiled from publicly available sources, as well as via direct contacts with the developers, on a best effort basis, with no warranty regarding the correctness of any information. If you would like your satellite to be featured here, please fill out the Contact Us form in the [Get Involved](https://amsat-ca.org/get-involved/) section of the AMSAT-CA Website. Please note that only satellites which were launches to orbit area featured here.
+      The intent of this page is to serve as a vault of information for information on Canadian-built satellites which use Amateur spectrum. Information here is compiled from publicly available sources, as well as via direct contacts with the developers, on a best effort basis, with no warranty regarding the correctness of any information. If you would like your satellite to be featured here, please fill out the Contact Us form in the [Get Involved](https://amsat-ca.org/get-involved/) section of the AMSAT-CA Website. Please note that only satellites which were launched to orbit area featured here.
 
 
       ### CUBICS[](https://www.asc-csa.gc.ca/eng/satellites/cubics/about.asp)
