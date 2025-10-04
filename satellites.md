@@ -6,13 +6,13 @@ sections:
   - type: text-section
     heading: Canadian Amateur Satellites
     text: >-
-      ## Overview
+      ### Overview
 
 
       The intent of this page is to serve as a vault of information for information on Canadian-built satellites which use Amateur spectrum. Information here is compiled from publicly available sources, as well as via direct contacts with the developers, on a best effort basis, with no warranty regarding the correctness of any information. If you would like your satellite to be featured here, please fill out the Contact Us form in the [Get Involved](https://amsat-ca.org/get-involved/) section of the AMSAT-CA Website. Please note that only satellites which were launches to orbit area featured here.
 
 
-      ## CUBICS[](https://www.asc-csa.gc.ca/eng/satellites/cubics/about.asp)
+      ### CUBICS[](https://www.asc-csa.gc.ca/eng/satellites/cubics/about.asp)
 
 
       Satellites in the Canadian Space Agency's [CUBICS](https://www.asc-csa.gc.ca/eng/satellites/cubics/about.asp) program, running since 2023. Satellites are expected to launch to ISS and SSO in the second half of 2026.
@@ -35,7 +35,7 @@ sections:
       * University of Victoria: [MARMOTSat](https://www.marmotsat.ca/)
 
 
-      ## CCP
+      ### CCP
 
 
       Satellites in the Canadian Space Agency's [CCP](https://www.asc-csa.gc.ca/eng/satellites/cubesat/what-is-the-canadian-cubesat-project.asp) program, which run between 2018 and 2023. All the satellites listed here are since deorbited via natural means.
@@ -72,7 +72,7 @@ sections:
       * Yukon University: [YukonSat](https://www.yukonu.ca/research/projects/cubesat)
 
 
-      ## Other Programs and Missions
+      ### Other Programs and Missions
 
 
       * University of Calgary: [FrontierSat](<>)
