@@ -45,7 +45,7 @@ sections:
       * Geostationary Satellites (GEO) that contain amateur radio equipment are located 35,900 kms from the earth and are strictly above the equator. These satellites are travelling at the same speed as the earth is spinning which keeps them in the same location above the earth’s equator.
 
 
-      ![Fig. Different types of satellite orbits (Source: http://www.satellites.spacesim.org)](/assets/media/fig-different-types-of-satellite-orbits-source-http-wwwsatellitesspacesimorg.png)
+      ![Fig. Different types of satellite orbits (Source: http://www.satellites.spacesim.org)](/assets/media/orbit_at_different_altitudes_26f05e7560.png)
 
 
       **Frequencies and location:**
