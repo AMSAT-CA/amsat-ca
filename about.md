@@ -26,7 +26,18 @@ sections:
       stations and planets, and related experiments, as well as new developments
       in technology, methods and techniques.
   - type: text-section
-    heading: Vision 2030
+    heading: Regulatory & Spectrum
+    text: >-
+      AMSAT-CA is committed to the protection of Amateur satellite spectrum from
+      encroachment of commercial interests and pollution by human-made
+      interference. We are happy to assist members with guidance and advocacy in
+      this regard; please email us at regulatory \[at] amsat-ca.org with
+      questions and concerns.
+
+
+      For University-based satellite teams looking for endorsement by us for IARU frequency coordination, please note that this, at the moment is done by the Radio Amateurs of Canada (RAC) Satellite Committee only. You can reach them at satellites@rac.ca.
+  - type: text-section
+    heading: Strategic Plan
     text: >
       AMSAT-CA is actively working with our membership to develop our vision for
       2030. If you'd like to learn more, or contribute your ideas to our
@@ -97,4 +108,13 @@ sections:
   - type: social_links
     heading: Follow Us
     show_titles: true
+    text: >-
+      AMSAT-CA is committed to the protection of Amateur satellite spectrum from
+      encroachment of commercial interests and pollution by human-made
+      interference. We are happy to assist members with guidance and advocacy in
+      this regard; please email us at regulatory \[at] amsat-ca.org with
+      questions and concerns.
+
+
+      For University-based satellite teams looking for endorsement by us for IARU coordination, please note that this, at the moment is done by the Radio Amateurs of Canada (RAC) Satellite Committee only. You can reach them at satellites \[at] rac.ca.
 ---
