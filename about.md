@@ -31,11 +31,12 @@ sections:
       AMSAT-CA is committed to the protection of Amateur satellite spectrum from
       encroachment of commercial interests and pollution by human-made
       interference. We are happy to assist members with guidance and advocacy in
-      this regard; please email us at regulatory \[at] amsat-ca.org with
-      questions and concerns.
+      this regard; please email us at
+      [regulatory@amsat-ca.org](regulatory@amsat-ca.org) with questions and
+      concerns.
 
 
-      For University-based satellite teams looking for endorsement by us for IARU frequency coordination, please note that this, at the moment is done by the Radio Amateurs of Canada (RAC) Satellite Committee only. You can reach them at satellites@rac.ca.
+      For University-based satellite teams looking for endorsement by us for IARU frequency coordination, please note that this, at the moment is done by the Radio Amateurs of Canada (RAC) Satellite Committee only. You can reach them at [satellites@rac.ca](satellites@rac.ca).
   - type: text-section
     heading: Strategic Plan
     text: >
