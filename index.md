@@ -33,14 +33,8 @@ sections:
         media_type: image
       - cta_text: Learn More
         title: Satellites
-        description: Learn more about amateur radio satellites
-        url: /satellites/
-        image: /assets/media/jwst.png
-        media_type: image
-      - cta_text: Learn More
-        title: Canadian Satellites
-        url: /canadian-satellites/
-        media_type: image
-        image: /assets/media/university-of-alberta’s-ex-alta-1-cubesat.jpg
         description: Learn more about Canadian amateur radio satellites
+        url: /satellites/
+        image: /assets/media/university-of-alberta’s-ex-alta-1-cubesat.jpg
+        media_type: image
 ---
