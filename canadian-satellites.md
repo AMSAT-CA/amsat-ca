@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Canadian Satellites
-permalink: /canadian-satellites/
+title: Satellites
+permalink: /satellites/
 sections:
   - type: text-section
     heading: Canadian Amateur Satellites
