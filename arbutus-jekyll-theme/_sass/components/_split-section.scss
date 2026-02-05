@@ -1,0 +1,76 @@
+@use "../utils/functions" as fn;
+@use "../utils/mixins" as mix;
+@use "../utils/variables" as vars;
+
+.image-caption {
+  font-size: 1.25rem;
+  line-height: 1.6;
+  margin-top: 0.5rem;
+  text-align: center;
+}
+// Styles for split-section component
+.split-section {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: fn.spacing(6);
+  padding-left: vars.$container-padding-mobile;
+  padding-right: vars.$container-padding-mobile;
+  
+  @include mix.breakpoint('md') {
+    padding-left: vars.$container-padding-tablet;
+    padding-right: vars.$container-padding-tablet;
+  }
+
+  &__image {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-bottom: fn.spacing(4);
+    img {
+      max-width: 100%;
+      border-radius: vars.$border-radius;
+      display: block;
+    }
+  }
+  &__content {
+    flex: 0 0 100%;
+    width: 100%;
+    h2 {
+      margin-top: 0;
+      font-size: 1.75rem;
+      font-weight: vars.$font-weight-bold;
+
+      @include mix.breakpoint("md") {
+        font-size: 2rem;
+      }
+    }
+    .split-section__text {
+      margin-top: fn.spacing(4);
+      line-height: 1.6;
+      min-width: 0;
+      word-break: break-word;
+      overflow-wrap: break-word;
+    }
+  }
+
+  // At md and up: allow left/right variants
+  @include mix.breakpoint("md") {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: fn.spacing(8);
+    &--left {
+      flex-direction: row;
+    }
+    &--right {
+      flex-direction: row-reverse;
+    }
+    &__image {
+      flex: 0 0 55%;
+      margin-bottom: 0;
+    }
+    &__content {
+      width: 100%;
+      flex: 1 1 45%;
+    }
+  }
+}
