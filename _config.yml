@@ -27,7 +27,7 @@ web3forms:
   access_key: b8ed0752-98a5-4f19-8f4a-8c6c58953e9e
   subject: Contact Form Submission from AMSAT-CA
   hcaptcha_sitekey: 50b2fe65-b00b-4b9e-ad62-3ba471098be2
-theme: arbutus-theme
+theme: amsat-ca-jekyll-theme
 permalink: pretty
 exclude:
   - Gemfile

@@ -167,7 +167,7 @@ collections:
               label: "Theme",
               name: "theme",
               widget: "string",
-              default: "arbutus-theme",
+              default: "amsat-ca-jekyll-theme",
             }
   # Favicon configuration
   - name: "favicons"
