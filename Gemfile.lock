@@ -1,8 +1,7 @@
-GIT
-  remote: https://github.com/Arbutus-Code/arbutus-jekyll-theme.git
-  revision: 1622020115916f6f0d7412e5d5e7eb48ef380320
+PATH
+  remote: amsat-ca-jekyll-theme
   specs:
-    arbutus-theme (0.1.0)
+    amsat-ca-jekyll-theme (0.1.0)
       jekyll (~> 4.3)
       jekyll-feed (~> 0.12)
       jekyll-seo-tag (~> 2.8)
@@ -94,7 +93,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  arbutus-theme!
+  amsat-ca-jekyll-theme!
   base64
   bigdecimal
   csv
