@@ -21,10 +21,14 @@ sections:
       AMSAT-CA operates as a member-driven, outreach-focused organization that works in collaboration with partners across the world.
   - type: text-section
     heading: Our Mission
-    text: AMSAT-CA promotes, develops, and supports amateur radio in space,
+    text: >-
+      AMSAT-CA promotes, develops, and supports Amateur Radio in space,
       including via human-made and natural satellites (e.g., the Moon), space
       stations and planets, and related experiments, as well as new developments
       in technology, methods and techniques.
+
+
+      We strive to bring those together who have interests related to this mission, and create an inclusive community where folks from across Canada who are motivated by common goals can meet, collaborate and exchange ideas. We also serve as a resource for those who are new to the world of Amateur Radio and satellites, connecting them with experienced individuals, and helping them get started.
   - type: text-section
     heading: Regulatory & Spectrum
     text: >-
@@ -36,14 +40,13 @@ sections:
       concerns.
 
 
-      For University-based satellite teams looking for endorsement by us for IARU frequency coordination, please note that this, at the moment is done by the Radio Amateurs of Canada (RAC) Satellite Committee only. You can reach them at [satellites@rac.ca](satellites@rac.ca).
+      For university-based satellite teams looking for endorsement by us for IARU frequency coordination, please note that at the moment is done by the Radio Amateurs of Canada (RAC) Satellite Committee only. You can reach them at [satellites@rac.ca](satellites@rac.ca). Noting their endorsement only on the forms will not harm of a Canadian mission's chances for receiving IARU endorsement.
   - type: text-section
     heading: Strategic Plan
-    text: >
-      AMSAT-CA is actively working with our membership to develop our vision for
-      2030. If you'd like to learn more, or contribute your ideas to our
-      five-year plan, email:
-      [president@amsat-ca.org](mailto:president@amsat-ca.org)
+    text: AMSAT-CA is actively working with our membership to develop our Strategic
+      Plan. If you'd like to learn more, or contribute your ideas to this,
+      connect with us at
+      [president@amsat-ca.org.](mailto:president@amsat-ca.org)
   - type: team
     heading: Our Team
     show_images: true
