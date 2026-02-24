@@ -80,6 +80,13 @@ sections:
         bio: ve7wf@amsat-ca.org
         image: /assets/media/img_2008.jpg
   - type: cta
+    center_content: true
+    title: Membership Benefits
+    description: AMSAT-CA Membership Benefits - Updated February 2026
+    primary_button:
+      text: Download Benefits
+      url: assets/media/amsat-ca-member-benefits.pdf
+  - type: cta
     title: AMSAT-CA MOU
     description: Memorandum of Understanding between Radio Amateurs of Canada and
       Amateur Radio Satellites and Systems - Canada
