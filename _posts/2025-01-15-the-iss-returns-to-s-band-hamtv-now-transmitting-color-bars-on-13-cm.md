@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The ISS Returns to S-Band: HamTV Now Transmitting Color Bars on 13 cm"
-date: 2025-01-15T10:00:00.000-08:00
+date: 2026-01-15T10:00:00.000-08:00
 image: /assets/media/screenshot_2026-01-04_02-56-15.png
 tags:
   - ISS
