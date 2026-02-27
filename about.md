@@ -66,7 +66,7 @@ sections:
       - name: Tom Anderson - VA6TA
         title: Secretary
         bio: secretary@amsat-ca.org
-        image: /assets/media/tom-pic-for-amsat.jpg
+        image: /assets/media/tom-picture-mediumamsat.jpg
       - name: Matthew Borghese - VA7USD
         title: Director Outreach
         bio: va7usd@amsat-ca.org
