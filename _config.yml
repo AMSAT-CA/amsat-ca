@@ -18,6 +18,9 @@ socials:
   - icon: github
     name: Github
     url: https://github.com/AMSAT-CA
+  - icon: discord
+    name: Discord
+    url: https://amsat-ca.org/assets/media/amsat-ca-member-benefits.pdf
 include:
   - admin
 footer:
