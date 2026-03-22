@@ -123,6 +123,7 @@ collections:
                       "youtube",
                       "github",
                       "email",
+                      "discord",
                     ],
                   hint: "Select from available social icons in the theme sprite",
                 }
