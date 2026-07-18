@@ -41,12 +41,6 @@ sections:
 
 
       For university-based satellite teams looking for endorsement by us for IARU frequency coordination, please note that at the moment is done by the Radio Amateurs of Canada (RAC) Satellite Committee only. You can reach them at [satellites@rac.ca](satellites@rac.ca). Noting their endorsement only on the forms will not harm of a Canadian mission's chances for receiving IARU endorsement.
-  - type: text-section
-    heading: Strategic Plan
-    text: AMSAT-CA is actively working with our membership to develop our Strategic
-      Plan. If you'd like to learn more, or contribute your ideas to this,
-      connect with us at
-      [president@amsat-ca.org.](mailto:president@amsat-ca.org)
   - type: team
     heading: Our Team
     show_images: true
@@ -82,14 +76,13 @@ sections:
   - type: cta
     center_content: true
     title: Membership Benefits
-    description: AMSAT-CA Membership Benefits - Updated February 2026
+    description: AMSAT-CA Membership Benefits - Approved by the Board February 14, 2026
     primary_button:
       text: Download Benefits
       url: assets/media/amsat-ca-member-benefits.pdf
   - type: cta
     title: AMSAT-CA MOU
-    description: Memorandum of Understanding between Radio Amateurs of Canada and
-      Amateur Radio Satellites and Systems - Canada
+    description: Memorandum of Understanding between the RAC and AMSAT-CA.
     center_content: true
     primary_button:
       text: Download MOU
@@ -98,10 +91,17 @@ sections:
     center_content: true
     title: AMSAT-CA Bylaws
     description: |
-      Corporate Bylaws - Updated August 18, 2025
+      Corporate Bylaws - Approved by the Board August 18, 2025
     primary_button:
       text: Download Bylaws
       url: assets/media/amsat-ca-bylaws-agust-18-2025.pdf
+  - type: cta
+    center_content: true
+    title: AMSAT-CA Strategic Plan
+    primary_button:
+      text: Download Strategic Plan
+      url: assets/media/amsat-ca-strategic-plan-may-18-2026-signed-release.pdf
+    description: Corporate Strategic Plan - Approved by the Board on May 18, 2026
   - type: text-section
     heading: Our Sponsors
     text: >-
