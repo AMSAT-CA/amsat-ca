@@ -7,4 +7,6 @@ main_nav_links:
     link: /satellites/
   - name: Updates
     link: /updates/
+  - name: Membership
+    link: /membership/
 footer_nav_links: null
