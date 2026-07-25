@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Get Involved
+title: Contact Us
 sections:
   - type: split
     heading: Want to know more about AMSAT-CA?<br /> <br />Do you have a request for
-      proposals or other support from our organization?<br /> <br />Send us your
-      information and we will let you know when membership becomes available.
+      proposals or other support from our organization?<br /> <br />Please fill
+      out the form and someone will be in touch.
     image: /assets/media/E8Z9Z33WUB8Bnw_.jpeg
     image_alt: Get Involved illustration
     image_position: right
