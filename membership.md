@@ -26,6 +26,7 @@ sections:
 
 
       Please allow at least two weeks for responses.  If you have not received the email follow-up, please check your spam folder and make sure that secretary@amsat-ca.org is whitelisted and you can receive emails from this address. Questions related to membership should also be directed to this e-mail address.
+    heading: Membership in AMSAT-CA
   - type: cta
     center_content: true
     title: Apply for Membership
