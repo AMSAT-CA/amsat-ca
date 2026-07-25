@@ -7,7 +7,7 @@ sections:
       proposals or other support from our organization?<br /> <br />Please fill
       out the form and someone will be in touch.
     image: /assets/media/E8Z9Z33WUB8Bnw_.jpeg
-    image_alt: Get Involved illustration
+    image_alt: Contact Us illustration
     image_position: right
     image_caption: Bruce Patten (VE7PTN) calling CQ from Toad River, BC
   - type: contact_form
