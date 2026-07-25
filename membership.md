@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Membership
+permalink: /membership/
 sections:
   - type: text-section
     text: >-
