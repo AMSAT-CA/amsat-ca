@@ -1,8 +1,8 @@
 main_nav_links:
   - name: About
     link: /about/
-  - name: Get Involved
-    link: /get-involved/
+  - name: Contact Us
+    link: /contact-us/
   - name: Satellites
     link: /satellites/
   - name: Updates
