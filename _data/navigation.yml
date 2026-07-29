@@ -1,12 +1,12 @@
 main_nav_links:
   - name: About
     link: /about/
-  - name: Contact Us
-    link: /contact-us/
-  - name: Satellites
-    link: /satellites/
-  - name: Updates
-    link: /updates/
   - name: Membership
     link: /membership/
+  - name: Updates
+    link: /updates/
+  - name: Satellites
+    link: /satellites/
+  - name: Contact Us
+    link: /contact-us/
 footer_nav_links: null
