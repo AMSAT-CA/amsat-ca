@@ -10,9 +10,8 @@ sections:
       Current member benefits are available in our official [Membership
       Benefits](https://amsat-ca.org/assets/media/amsat-ca-member-benefits.pdf)
       document. At this time, membership fees are set at $40 for Full and $80
-      for Affiliate members by the Board. Fees are for the calendar year, and
-      pro-rated by 50% if applications are received on or after July 1 or the
-      year in question. 
+      for Affiliate members by the Board. Fees are for the calendar year and are
+      not pro-rated at this time. 
 
 
       To apply for membership:
