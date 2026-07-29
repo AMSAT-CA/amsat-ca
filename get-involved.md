@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact Us
+permalink: /contact-us/
 sections:
   - type: split
     heading: Want to know more about AMSAT-CA?<br /> <br />Do you have a request for
