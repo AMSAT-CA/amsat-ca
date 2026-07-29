@@ -8,11 +8,11 @@ sections:
       proposals or other support from our organization?<br /> <br />Please fill
       out the form and someone will be in touch.
     image: /assets/media/E8Z9Z33WUB8Bnw_.jpeg
-    image_alt: Contact Us illustration
+    image_alt: Contact Us Illustration
     image_position: right
     image_caption: Bruce Patten (VE7PTN) calling CQ from Toad River, BC
   - type: contact_form
     title: Contact Us
     access_key: b8ed0752-98a5-4f19-8f4a-8c6c58953e9e
-    subject: Get Involved - AMSAT-CA
+    subject: Contact Us - AMSAT-CA
 ---
