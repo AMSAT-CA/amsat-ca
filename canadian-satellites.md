@@ -38,7 +38,7 @@ sections:
       ### CCP
 
 
-      Satellites in the Canadian Space Agency's [CCP](https://www.asc-csa.gc.ca/eng/satellites/cubesat/what-is-the-canadian-cubesat-project.asp) program, which run between 2018 and 2023. All the satellites listed here are since deorbited via natural means.
+      Satellites in the Canadian Space Agency's [CCP](https://www.asc-csa.gc.ca/eng/satellites/cubesat/what-is-the-canadian-cubesat-project.asp) program, which ran between 2018 and 2023. All the satellites listed here are since deorbited via natural means.
 
 
       * University of Alberta: [Ex-Alta-2](https://albertasat.ca/ex-alta-2/)
