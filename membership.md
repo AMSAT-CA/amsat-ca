@@ -34,7 +34,7 @@ sections:
     center_content: true
     title: Apply for Membership
     primary_button:
-      url: https://amsat-ca.org/
+      url: https://forms.gle/FPGssTTX3U6xCG516
       text: Apply for Membership
     description: AMSAT-CA Membership Application
 ---
