@@ -6,7 +6,6 @@ tags:
   - ICOM
   - "9700"
   - portable
-  - ""
 ---
 ## Building a Portable Satellite Station?
 

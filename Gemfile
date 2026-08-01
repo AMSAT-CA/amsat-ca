@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Jekyll version compatible with the theme
-gem "jekyll", "~> 4.3.0"
+gem "jekyll", "~> 4.4"
 gem "webrick"
 gem "bigdecimal"
 gem "csv"      # Required for Ruby 3.4+
