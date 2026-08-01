@@ -22,7 +22,7 @@ sections:
 
       1. Click the button below and fill out the intake form.
 
-      2. Send your membership fee to etransfer@amsat-ca.org as an Interac e-Transfer, with your call sign* and year in the comment field.
+      2. Send your membership fee to etransfer@amsat-ca.org as an Interac e-Transfer, with your call sign* and the year the membership is for in the comment field.
 
       3. Wait for the Secretary to get back to you via e-mail with your membership certificate.
 
