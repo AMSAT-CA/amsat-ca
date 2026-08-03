@@ -14,26 +14,19 @@ sections:
         description: See the latest updates from AMSAT Canada
         image: /assets/media/ex-alta-1-cubesat-–-university-of-alberta.jpg
         image_alt: 2025 AMSAT-CA Update
-        url: /updates
+        url: /updates/
         cta_text: Updates
         media_type: image
       - title: Get Involved
-        description: Connect with other amateur radio enthusiasts
+        description: Connect with other Amateur radio enthusiasts
         image: /assets/media/va7usd one.jpg
         image_alt: Get Involved
-        url: /get-involved
+        url: /membership/
         cta_text: Join Us
-        media_type: image
-      - title: AMSAT-CA
-        description: Learn about AMSAT Canada and our mission
-        image: /assets/media/AMSAT-CA_Logo-Final-01.png
-        image_alt: AMSAT-CA Logo
-        url: /about
-        cta_text: About Us
         media_type: image
       - cta_text: Learn More
         title: Satellites
-        description: Learn more about Canadian amateur radio satellites
+        description: Learn more about Canadian Amateur radio satellites
         url: /satellites/
         image: /assets/media/university-of-alberta’s-ex-alta-1-cubesat.jpg
         media_type: image
