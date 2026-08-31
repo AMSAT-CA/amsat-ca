@@ -3,11 +3,12 @@ layout: post
 title: MARMOTSat Designated CO-128
 date: 2026-08-01T12:06:00.000-07:00
 tags:
-  - amsat-na
+  - amsat
   - oscar
   - uvic
   - cubics
   - csa
+  - canada-oscar
 ---
 AMSAT Canada is pleased to congratulate the [University of Victoria Centre for Aerospace Research (CfAR)](https://www.uvic-cfar.com/) team on [MARMOTSat](https://www.marmotsat.ca/) receiving Canada's first official OSCAR designation **Canada-OSCAR 128 (CO-128)**. This recognition marks an important milestone for one of Canada's newest Amateur radio satellite missions. 
 
