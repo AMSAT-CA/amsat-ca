@@ -7,7 +7,7 @@ sections:
     image_alt: AMSAT-CA Logo
     image_position: left
     heading: Who We Are
-    text: >
+    text: >-
       AMSAT-CA was founded by Stefan Wagner VE4SW and others from across Canada
       and incorporated as a non-profit in November 2023.
 
@@ -15,7 +15,7 @@ sections:
       In May 2024, AMSAT-CA was recognized by Radio Amateur Canada (RAC) as the official amateur radio satellite organization for Canada.
 
 
-      Later that year, AMSAT-CA also received recognition from AMSAT-US and the organization began to take further shape.
+      Later that year, AMSAT-CA also received recognition from AMSAT and the organization began to take further shape.
 
 
       AMSAT-CA operates as a member-driven, outreach-focused organization that works in collaboration with partners across the world.
