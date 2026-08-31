@@ -76,7 +76,8 @@ sections:
   - type: cta
     center_content: true
     title: Membership Benefits
-    description: AMSAT-CA Membership Benefits - Approved by the Board February 14, 2026
+    description: AMSAT-CA Membership Benefits - Approved by the Board February 14,
+      2026, typographical updates on August 30, 2026.
     primary_button:
       text: Download Benefits
       url: assets/media/amsat-ca-member-benefits.pdf
