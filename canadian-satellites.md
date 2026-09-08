@@ -15,7 +15,7 @@ sections:
       ### CUBICS[](https://www.asc-csa.gc.ca/eng/satellites/cubics/about.asp)
 
 
-      This is a list of satellites, which use amateur radio frequencies, in the Canadian Space Agency's [CUBICS](https://www.asc-csa.gc.ca/eng/satellites/cubics/about.asp) program, running since 2023. Satellites are expected to launch to ISS and SSO in the second half of 2026.
+      This is a list of satellites, which use amateur radio frequencies, in the Canadian Space Agency's [CUBICS](https://www.asc-csa.gc.ca/eng/satellites/cubics/about.asp) program, running since 2023. Satellites are expected to launch to ISS and SSO orbits in the second half of 2026.
 
 
       * University of Alberta: [Ex-Alta 3](https://albertasat.ca/ex-alta-3/)
