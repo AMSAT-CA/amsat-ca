@@ -49,7 +49,7 @@ sections:
         title: President
         bio: president@amsat-ca.org
         image: /assets/media/photo-buzas.jpg
-      - name: Scott Tilley - VA7LF
+      - name: Scott Tilley - VE7TIL
         title: Vice President
         bio: vicepresident@amsat-ca.org
         image: /assets/media/scott-tilley.jpg
