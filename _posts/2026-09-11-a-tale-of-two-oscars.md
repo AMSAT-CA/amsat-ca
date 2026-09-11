@@ -1,12 +1,10 @@
 ---
 layout: post
-title: A Tale of Two OSCARs
+title: This is a tale of two first OSCARs (Orbiting Satellite Carrying Amateur Radio).
 date: 2026-09-10T21:06:00.000-03:00
 image: /assets/media/vy2-ve9ex-equipment.jpg
 image_alt: VY2/VE9EX equipment, a radio and antenna
 ---
-This is a tale of two first OSCARs (Orbiting Satellite Carrying Amateur Radio).
-
 ### American OSCAR I
 
 In 1961, when I was at Case Western Reserve University, a group of amateur radio operators combined their effort to listen to a satellite. One student's task was the orbital calculations. One student's task was the azimuth control. One student's task the elevation control. One student's task was the frequency control. I had the good fortune to hear the distinctive HI HI in Morse code of the American OSCAR I.
