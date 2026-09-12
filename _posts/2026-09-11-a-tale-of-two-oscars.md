@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A tale of two OSCARs
+title: A tale of two first OSCARs
 date: 2026-09-11T21:15:00.000-03:00
 image: /assets/media/vy2-ve9ex-radio-and-antenna.jpg
 image_alt: VY2/VE9EX equipment, a radio and antenna
