@@ -5,7 +5,7 @@ date: 2026-09-11T21:15:00.000-03:00
 image: /assets/media/vy2-ve9ex-radio-and-antenna.jpg
 image_alt: VY2/VE9EX equipment, a radio and antenna
 ---
-This is a tale of two OSCARs (Orbiting Satellite Carrying Amateur Radio), American OSCAR I and Canada-OSCAR 128.
+This is a tale of two first OSCARs (Orbiting Satellite Carrying Amateur Radio), American OSCAR I and Canada-OSCAR 128.
 
 ### American OSCAR I
 
