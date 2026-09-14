@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A tale of two first OSCARs
-date: 2026-09-11T21:15:00.000-03:00
+date: 2026-09-12T20:15:00.000-03:00
 image: /assets/media/vy2-ve9ex-radio-and-antenna.jpg
 image_alt: VY2/VE9EX equipment, a radio and antenna
 ---
@@ -9,7 +9,7 @@ This is a tale of two first OSCARs (Orbiting Satellite Carrying Amateur Radio)
 
 ### American OSCAR I
 
-In December, 1961, when I was at Case Western Reserve University, a group of amateur radio operators combined their effort to listen to a satellite. One student's task was the orbital calculations. One student's task was the azimuth control. One student's task the elevation control. One student's task was the frequency control. I had the good fortune to hear the distinctive HI HI in Morse code of the [American OSCAR I](https://en.wikipedia.org/wiki/OSCAR_1).
+In December, 1961, when I was at Case Western Reserve University, a group of amateur radio operators combined their effort to listen to a satellite. One student's task was the orbital calculations. One student's task was the azimuth control. One student's task was the elevation control. One student's task was the frequency control. I had the good fortune to hear the distinctive HI HI in Morse code of the [American OSCAR I](https://en.wikipedia.org/wiki/OSCAR_1).
 
 73, John DeDourek, VE9TFB, ex K8TFB
 
