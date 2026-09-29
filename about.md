@@ -53,10 +53,10 @@ sections:
         title: Vice President
         bio: vicepresident@amsat-ca.org
         image: /assets/media/scott-tilley.jpg
-      - name: Tom Tessier - VE9TRT
+      - name: Tom Tessier - VE4TRT
         title: Treasurer and Director Outreach
         bio: treasurer@amsat-ca.org
-        image: /assets/media/AMSAT-CA_Logo-Final-01.png
+        image: /assets/media/inpetersplane.jpg
       - name: Tom Anderson - VA6TA
         title: Secretary
         bio: secretary@amsat-ca.org
